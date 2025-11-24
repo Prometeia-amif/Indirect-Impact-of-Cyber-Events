@@ -1,7 +1,5 @@
 rm( list = ls() )
 
-aaa
-
 if ( !require ( openxlsx) ) {
   install.packages ( "openxlsx" )
 }
